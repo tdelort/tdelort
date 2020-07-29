@@ -1,4 +1,4 @@
-# Hello there :space_invader:
+# Hello there :wave:
 
 I'm an Undergraduate at ENSIIE following courses within the domains of Computer Science and Mathematics.
 
