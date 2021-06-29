@@ -4,7 +4,7 @@ I'm an Undergraduate at ENSIIE 🏫 following courses within the domains of Comp
 
 From 15/08/2021 and for a year, I will be studying computer science in UQAC 🇨🇦 !   
 
-Luckily, I have no time to be impatient since I landed an internship in the field of AR for my second year internship in a startup.  
+Luckily, I have no time to be impatient since I landed an internship in the field of AR for my second year internship.  
 
 # Personnal Projects :steam_locomotive::railway_car::railway_car::railway_car:
  
